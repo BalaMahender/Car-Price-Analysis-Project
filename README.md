@@ -1,4 +1,5 @@
-# Car-Price-Analysis-Project
+
+# Car Price Analysis Project
 
 ## Objective
 This project analyzes used car data using Python, Pandas, Matplotlib, and Seaborn.
