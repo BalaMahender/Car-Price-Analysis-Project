@@ -25,4 +25,5 @@ This project analyzes used car data using Python, Pandas, Matplotlib, and Seabor
 - car_price_analysis.py
 
 ## Author
-Balaa mahindar
+**Balaa mahindar**
+CPD Batch-10
